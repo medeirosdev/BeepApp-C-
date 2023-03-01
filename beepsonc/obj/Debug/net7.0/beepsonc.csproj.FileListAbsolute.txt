@@ -1,0 +1,15 @@
+D:\Projetos\C#\BeepSonC#\beepsonc\obj\Debug\net7.0\beepsonc.csproj.AssemblyReference.cache
+D:\Projetos\C#\BeepSonC#\beepsonc\obj\Debug\net7.0\beepsonc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\BeepSonC#\beepsonc\obj\Debug\net7.0\beepsonc.AssemblyInfoInputs.cache
+D:\Projetos\C#\BeepSonC#\beepsonc\obj\Debug\net7.0\beepsonc.AssemblyInfo.cs
+D:\Projetos\C#\BeepSonC#\beepsonc\obj\Debug\net7.0\beepsonc.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\BeepSonC#\beepsonc\bin\Debug\net7.0\beepsonc.exe
+D:\Projetos\C#\BeepSonC#\beepsonc\bin\Debug\net7.0\beepsonc.deps.json
+D:\Projetos\C#\BeepSonC#\beepsonc\bin\Debug\net7.0\beepsonc.runtimeconfig.json
+D:\Projetos\C#\BeepSonC#\beepsonc\bin\Debug\net7.0\beepsonc.dll
+D:\Projetos\C#\BeepSonC#\beepsonc\bin\Debug\net7.0\beepsonc.pdb
+D:\Projetos\C#\BeepSonC#\beepsonc\obj\Debug\net7.0\beepsonc.dll
+D:\Projetos\C#\BeepSonC#\beepsonc\obj\Debug\net7.0\refint\beepsonc.dll
+D:\Projetos\C#\BeepSonC#\beepsonc\obj\Debug\net7.0\beepsonc.pdb
+D:\Projetos\C#\BeepSonC#\beepsonc\obj\Debug\net7.0\beepsonc.genruntimeconfig.cache
+D:\Projetos\C#\BeepSonC#\beepsonc\obj\Debug\net7.0\ref\beepsonc.dll
